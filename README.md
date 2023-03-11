@@ -2,7 +2,7 @@
 
 FIFA project for Week 6 of the data bootcamp 
 
-Link to Trello workspace: https://trello.com/b/ccMs2lUM/fifa-project
+Link to Trello workspace: [https://trello.com/b/ccMs2lUM/fifa-project](https://trello.com/invite/b/ccMs2lUM/ATTI0cb18cdb1f01a5fb8baf8c3903797953C497CC50/fifa-project)
 
 Link to presentation
 https://www.canva.com/design/DAFc4BgDA8A/NGdadQijXgAzB3Q3yHLrFQ/edit
