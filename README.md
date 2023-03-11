@@ -14,8 +14,7 @@ The problem that we investigated was that clubs are are not getting a Return On 
 Our hypothesis was that we could identify under-valued players by creating a ranking model using performance attributes.
 
 ### Methodology
-
-For a Given point in time, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
+Using our database as a snapshot of player performance, we developed a model that predicts market value based on objective performance measures and compared it with their actual market value. In this way we can generate lists of undervalued players that are high performers.
 
 
 ### Project Management
