@@ -15,7 +15,6 @@ Want to learn more about our approach? Check out [the presentation](https://www.
 ### Deep dive
 Want to learn get into the nitty gritty? Access our [Exploratory Data Analysis and Linear Regression model](https://github.com/ocaoimh/fifa_project_RJC/blob/main/FIFA%20Project_Main_File_V3.ipynb) here.
 
-https://github.com/ocaoimh/fifa_project_RJC/blob/main/FIFA%20Project_Main_File_V3.ipynb
 
 
 ### Resources
