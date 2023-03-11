@@ -2,7 +2,10 @@
 
 FIFA project for Week 6 of the data bootcamp 
 
-How did we organise our work? Go to [the Trello workspace] (https://trello.com/invite/b/ccMs2lUM/ATTI0cb18cdb1f01a5fb8baf8c3903797953C497CC50/fifa-project) here.
+[I'm an inline-style link](https://www.google.com)
+
+
+How did we organise our work? Go to [the Trello workspace](https://trello.com/invite/b/ccMs2lUM/ATTI0cb18cdb1f01a5fb8baf8c3903797953C497CC50/fifa-project) here.
 
 https://trello.com/invite/b/ccMs2lUM/ATTI0cb18cdb1f01a5fb8baf8c3903797953C497CC50/fifa-project
 
