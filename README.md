@@ -4,6 +4,7 @@
 # Mini-project #1
 
 ## FIFA project for Week 6 of the data bootcamp 
+For this project, we had the challenge of working with a dataset from the FIFA 19 football game. We used  [a dataset from this project brief](https://github.com/ironhack-edu/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/project_details.md)
 
 ### Project Management
 How did we organise our work? Go to [the Trello workspace](https://trello.com/invite/b/ccMs2lUM/ATTI0cb18cdb1f01a5fb8baf8c3903797953C497CC50/fifa-project) here.
