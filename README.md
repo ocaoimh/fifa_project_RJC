@@ -1,7 +1,7 @@
 ![Logo](https://github.com/ocaoimh/fifa_project_RJC/blob/main/resources/logo.png)
 
 
-# FIFA data analysis project
+# Mini-project #1
 
 ## FIFA project for Week 6 of the data bootcamp 
 
